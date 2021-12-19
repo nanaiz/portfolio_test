@@ -1,3 +1,5 @@
+# This is a test portfolio page
+<!---
 ---
 layout: default
 ---
@@ -8,18 +10,19 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
-# Header 1
+## My projects:
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Fraud detection
 
-## Header 2
+Within this project I created lots of test algorithms just to test if I can test. 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Non-performing loan detection
 
+Within this project I created lots of test algorithms just to test if I can test. 
+
+<!---
 ### Header 3
 
 ```js
@@ -121,3 +124,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
